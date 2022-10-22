@@ -34,19 +34,19 @@ To get a local copy up and running follow these simple example steps.
 
 - First, you need clone this repository locally running this command:
 
-`
+```
 - git@github.com:ArnaudBand/react_rails.git
 - cd react_rails
 - bundle install
 - npm install -y
-`
+```
 
 ### Usage
 
 - You can get the app running locally by opening a local server:
-`
+```
 - rails s
-`
+```
 
 
 ## Author
