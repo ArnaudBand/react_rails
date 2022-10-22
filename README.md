@@ -1,19 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello world
 
-> Description the project.
+> By now you've used many different gems with Rails and this exercise will have you connect previous knowledge with new knowledge as you get a chance to use Webpack with jsbundling-rails gem.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby, JavaScript
+- Ruby on rails and React
+- Webpack
 
-## Live Demo (if available)
+## Tools
 
-[Live Demo Link](https://livedemo.com)
+diamond_shape_with_a_dot_insideVISUAL STUDIO CODE
 
 
 ## Getting Started
@@ -26,31 +26,36 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- You should have ruby installed in your machine, you can follow the steps given by the official [documentation](https://www.ruby-lang.org/en/documentation/installation/).
+
+- You should have a postgres user with superuser permissions. you can refer to the official [postgres documentation](https://www.postgresql.org/docs/) to create or update a role.
+
 ### Setup
 
-### Install
+- First, you need clone this repository locally running this command:
+
+`
+- git@github.com:ArnaudBand/react_rails.git
+- cd react_rails
+- bundle install
+- npm install -y
+`
 
 ### Usage
 
-### Run tests
+- You can get the app running locally by opening a local server:
+`
+- rails s
+`
 
-### Deployment
 
+## Author
 
+👤 **Arnaud Bandonkeye**
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/ArnaudBand)
+- Twitter: [@twitterhandle](https://twitter.com/@ba104781)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ArnaudBandonkeye)
 
 ## 🤝 Contributing
 
